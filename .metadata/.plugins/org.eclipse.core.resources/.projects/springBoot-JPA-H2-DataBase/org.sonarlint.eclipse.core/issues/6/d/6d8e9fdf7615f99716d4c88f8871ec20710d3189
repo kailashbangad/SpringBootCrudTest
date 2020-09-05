@@ -1,0 +1,12 @@
+
+|
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ñ¦…©üÿÿÿÿ8•Ó¯é¶.H¾RCRITICALZVULNERABILITY
+m
+java:S3752*"/Consider narrowing this list of methods to one.(ëúƒ´ÿÿÿÿÿ8·š¼é¶.HÁRCRITICALZVULNERABILITY
+|
+java:S3752#">Add a "method" parameter to this "@RequestMapping" annotation.(Ûüüïúÿÿÿÿ8·š¼é¶.HÀRCRITICALZVULNERABILITY
+}
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‹‰í¶8º·Ÿé¶.H½RMINORZ
+CODE_SMELL
+|
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Êÿ²³ÿÿÿÿÿ8å½˜é¶.H¹RCRITICALZVULNERABILITY

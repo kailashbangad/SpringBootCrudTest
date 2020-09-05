@@ -1,0 +1,28 @@
+
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜâŠÏHRMINORZ
+CODE_SMELL
+[	java:S108")Either remove or fill this block of code.(”ı¾8ôß»Ä¹.H‚RMAJORZ
+CODE_SMELL
+}
+java:S3973U"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHƒRCRITICALZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(÷äKH„RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(–¥ìCH…RMAJORZ
+CODE_SMELL
+T
+java:S1659*"#Declare "count" on a separate line.(¦¨¾ìüÿÿÿÿH†RMINORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+R
+java:S1659*"!Declare "sum" on a separate line.(¦¨¾ìüÿÿÿÿHˆRMINORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(ö‹¼´H‰RMAJORZ
+CODE_SMELL
+u
+java:S3973S"GUse indentation to denote the code conditionally executed by this "if".(ñøî
+HŠRCRITICALZ
+CODE_SMELL
+|	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õËÏ·H‹RMINORZ
+CODE_SMELL

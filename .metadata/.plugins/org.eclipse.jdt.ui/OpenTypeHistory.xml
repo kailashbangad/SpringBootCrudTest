@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=springrest/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springrest.springrest.service{CourseService.java[CourseService" modifiers="513" timestamp="1599146201357"/>
+    <typeInfo handle="=springrest/C:\/Program Files\/Java\/jdk-14.0.1\/lib\/jrt-fs.jar`jdk.internal.vm.compiler=/module=/true=/=/maven.pomderived=/true=/&lt;org.graalvm.compiler.hotspot(HotSpotCounterOp$CounterProcedure.class[CounterProcedure" modifiers="1548" timestamp="1596732436605"/>
+    <typeInfo handle="=springboot2-jpa-crud-example/C:\/Users\/Kailash\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.0.9.RELEASE\/spring-jdbc-5.0.9.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-jdbc=/=/maven.version=/5.0.9.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.jdbc.datasource(DriverManagerDataSource.class[DriverManagerDataSource" modifiers="33" timestamp="1598810286164"/>
+    <typeInfo handle="=springboot2-jpa-crud-example/C:\/Users\/Kailash\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.2.17.Final\/hibernate-core-5.2.17.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.2.17.Final=/=/maven.scope=/compile=/&lt;org.hibernate.dialect(MySQL55Dialect.class[MySQL55Dialect" modifiers="33" timestamp="1598810291848"/>
+</typeInfoHistroy>

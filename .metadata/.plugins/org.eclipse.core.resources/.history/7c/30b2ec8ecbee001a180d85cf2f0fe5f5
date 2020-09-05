@@ -1,0 +1,37 @@
+package com.app.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import com.app.model.Employee;
+
+public class EmployeeDaoImpl implements IEmployeeDao {
+	@Autowired
+	private HibernateTemplate ht;
+	
+
+	@Override
+	public String insertEmployee(Employee emp) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String updateEmployee(Employee emp) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String deleteEmployee(int eid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Employee searchEmployee(int eid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

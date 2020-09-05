@@ -1,0 +1,18 @@
+package in.nit.service;
+
+import java.util.List;
+
+
+import org.springframework.stereotype.Service;
+
+import in.nit.model.Product;
+
+public interface IProductService {
+	
+	public Integer saveProduct(Product p);
+	public void deleteProduct(Integer id);
+	public void updateProduct(Product p);
+	public List<Product> getAllProducts();
+	public Product getOneProduct(Integer id);
+	
+}

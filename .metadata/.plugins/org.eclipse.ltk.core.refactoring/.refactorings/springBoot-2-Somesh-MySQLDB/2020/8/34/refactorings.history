@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Graduate.java&apos; to &apos;springBoot-2-Somesh-MySQLDB/src/main/java/in.nit.model&apos;&#x0D;&#x0A;- Original project: &apos;springBoot-2-Somesh-MySQLDB&apos;&#x0D;&#x0A;- Destination element: &apos;springBoot-2-Somesh-MySQLDB/src/main/java/in.nit.model&apos;&#x0D;&#x0A;- Original element: &apos;in.nit.main.Graduate.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.nit.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.nit.main{Graduate.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1597576620900" units="1" version="1.0"/>
+</session>

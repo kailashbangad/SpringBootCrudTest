@@ -1,0 +1,15 @@
+
+s	java:S125Y"<This block of commented-out lines of code should be removed.(‹²Îºıÿÿÿÿ8£¬êÚÃ.H¹4RMAJORZ
+CODE_SMELL
+‡
+java:S1192("LDefine a constant instead of duplicating this literal "ProductData" 3 times.(×¨©îÿÿÿÿÿ8£¬êÚÃ.Hº4RCRITICALZ
+CODE_SMELL
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ï…ùøÿÿÿÿ8ö®ØÚÃ.H»4RCRITICALZVULNERABILITY
+~
+java:S1192!"HDefine a constant instead of duplicating this literal "message" 3 times.(Áãó¤8£¬êÚÃ.H¼4RCRITICALZ
+CODE_SMELL
+s	java:S1259"<This block of commented-out lines of code should be removed.(‹²Îºıÿÿÿÿ8£¬êÚÃ.H½4RMAJORZ
+CODE_SMELL
+y
+java:S4684M"@Replace this persistent entity with a simple POJO or DTO object.(Äæì8£¬êÚÃ.H¾4RCRITICALZVULNERABILITY

@@ -1,0 +1,12 @@
+package in.nit.model;
+
+public class RegisterModel {
+	private Integer empId;
+	private String empName;
+	private String empSal;
+	private String empGen;
+	private String empPrj;
+	private String empAddr;
+	private String empLang,empDoj,empBrnch;
+
+}

@@ -1,0 +1,16 @@
+
+
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ง๏€“8ด๊ๅืบ.Hฏ
+RMINORZ
+CODE_SMELL
+	java:S1160"ORename this field "Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ฏ…ÿÿÿÿÿ8ด๊ๅืบ.Hฎ
+RMINORZ
+CODE_SMELL
+‘
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ค้๚ÿÿÿÿ8ชฆจืบ.Hฆ
+RMINORZ
+CODE_SMELL
+‘
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ฏ…ÿÿÿÿÿ8ด๊ๅืบ.Hฐ
+RMINORZ
+CODE_SMELL

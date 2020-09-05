@@ -1,0 +1,18 @@
+
+n
+java:S1128";Remove this unused import 'in.nit.repo.EmployeeRepository'.(’®Ïî8Ü¶ Ÿ¿.Hä-RMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'in.nit.model.Employee'.(Ø¦×³øÿÿÿÿ8Ü¶ Ÿ¿.Hâ-RMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ü¶ Ÿ¿.Hã-RMINORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ü¶ Ÿ¿.Há-RMINORZ
+CODE_SMELL
+z
+java:S1128"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ8Ü¶ Ÿ¿.Hå-RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¨÷ùÿÿÿÿ8ıë¡Ÿ¿.Hë-RMAJORZ
+CODE_SMELL

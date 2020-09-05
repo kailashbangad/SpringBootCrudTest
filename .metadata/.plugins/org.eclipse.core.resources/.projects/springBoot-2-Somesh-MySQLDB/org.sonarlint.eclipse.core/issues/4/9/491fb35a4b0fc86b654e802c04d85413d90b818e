@@ -1,0 +1,17 @@
+
+y
+java:S1128	"ARemove this unused import 'org.springframework.data.domain.Page'.(˜âŽŽüÿÿÿÿ8­ÝÃÚÃ.H‡3RMINORZ
+CODE_SMELL
+i
+java:S1135*"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8—ž€ÚÃ.Hˆ3RINFOZ
+CODE_SMELL
+|
+java:S1128"DRemove this unused import 'org.springframework.data.domain.Example'.(³˜œÍüÿÿÿÿ8­ÝÃÚÃ.H‰3RMINORZ
+CODE_SMELL
+}
+java:S1128
+"ERemove this unused import 'org.springframework.data.domain.Pageable'.(‡ë‚Öýÿÿÿÿ8­ÝÃÚÃ.HŠ3RMINORZ
+CODE_SMELL
+i
+java:S11351"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8—ž€ÚÃ.H‹3RINFOZ
+CODE_SMELL

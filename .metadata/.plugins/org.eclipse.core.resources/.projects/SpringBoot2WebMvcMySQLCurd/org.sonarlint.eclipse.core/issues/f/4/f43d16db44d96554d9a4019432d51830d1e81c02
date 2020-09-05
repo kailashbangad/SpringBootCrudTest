@@ -1,0 +1,15 @@
+
+w
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(Ï…ŽùøÿÿÿÿH³4RCRITICALZVULNERABILITY
+€
+java:S1192="LDefine a constant instead of duplicating this literal "ProductData" 3 times.(×¨©îÿÿÿÿÿH´4RCRITICALZ
+CODE_SMELL
+l	java:S125T"<This block of commented-out lines of code should be removed.(‹²ÎºýÿÿÿÿHµ4RMAJORZ
+CODE_SMELL
+w
+java:S1192."HDefine a constant instead of duplicating this literal "message" 3 times.(Áãó¤H¶4RCRITICALZ
+CODE_SMELL
+l	java:S125w"<This block of commented-out lines of code should be removed.(‹²ÎºýÿÿÿÿH·4RMAJORZ
+CODE_SMELL
+r
+java:S4684k"@Replace this persistent entity with a simple POJO or DTO object.(ÄæìH¸4RCRITICALZVULNERABILITY

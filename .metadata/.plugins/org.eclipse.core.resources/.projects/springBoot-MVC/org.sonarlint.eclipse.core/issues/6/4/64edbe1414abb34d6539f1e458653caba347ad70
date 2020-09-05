@@ -1,0 +1,36 @@
+
+|
+java:S3752/">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÊãùşÿÿÿÿ8‹ê½à·.HÊ0RCRITICALZVULNERABILITY
+€
+java:S4488`"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(üà›şÿÿÿÿ8‚î—à·.HÍ0RMINORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(Ç§ş×üÿÿÿÿ8ûõ£ÎÃ.Hè0RMAJORZ
+CODE_SMELL
+p	java:S106l"9Replace this use of System.out or System.err by a logger.(Ç§ş×üÿÿÿÿ8›²Áà·.HÌ0RMAJORZ
+CODE_SMELL
+{
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®¶‹8³æ–ÎÃ.Hå0RMINORZ
+CODE_SMELL
+w
+java:S3752>">Add a "method" parameter to this "@RequestMapping" annotation.(‘°õø8ûõ£ÎÃ.Hç0RCRITICALZVULNERABILITY
+s	java:S125O"<This block of commented-out lines of code should be removed.(Ÿˆ–Šúÿÿÿÿ8ÜãëÍÃ.Hã0RMAJORZ
+CODE_SMELL
+n	java:S125b"<This block of commented-out lines of code should be removed.(Â³»¶8³æ–ÎÃ.Hæ0RMAJORZ
+CODE_SMELL
+~
+java:S1192"HDefine a constant instead of duplicating this literal "kailash" 3 times.(ú”ìÔ8ÜãëÍÃ.Hà0RCRITICALZ
+CODE_SMELL
+Œ
+java:S1488N"YImmediately return this expression instead of assigning it to the temporary variable "m".(îñ8ÜãëÍÃ.Há0RMINORZ
+CODE_SMELL
+w
+java:S3752j">Add a "method" parameter to this "@RequestMapping" annotation.(ëó¬ü8Ö„Îà·.HÎ0RCRITICALZVULNERABILITY
+€
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°¢ÆŸúÿÿÿÿ8ÜãëÍÃ.Hâ0RMINORZ
+CODE_SMELL
+{
+java:S4488L"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Éâ·‹8“œŞß·.HË0RMINORZ
+CODE_SMELL
+€
+java:S4488V"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(õã³ıÿÿÿÿ8¬õ®ÍÃ.HÚ0RMINORZ
+CODE_SMELL

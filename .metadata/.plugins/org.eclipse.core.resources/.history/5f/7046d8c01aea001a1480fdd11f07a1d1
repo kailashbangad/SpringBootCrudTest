@@ -1,0 +1,65 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h4>Product Register Form</h4>
+	<div id="register-page" class="row">
+		<div class="col s12 z-depth-6 card-panel">
+			<form class="register-form" action="save" method="POST">
+				<div class="row margin">
+					<div class="input-field col s12">
+						<i class="mdi-social-person-outline prefix"></i> <input id="CODE"
+							type="text" name="prodCode" class="validate"> <label
+							for="CODE" class="center-align">CODE:</label>
+					</div>
+				</div>
+				<div class="row margin">
+					<div class="input-field col s12">
+						<i class="mdi-communication-email prefix"></i> <input
+							id="user_type"  class="validate"> <label
+							for="user_type" class="center-align">TYPE: <select
+							name="prodType">
+								<option value="">-SELECT-</option>
+								<option value="HIGH">HIGH</option>
+								<option value="MID">MID</option>
+								<option value="LOW">LOW</option>
+						</select></label>
+					</div>
+				</div>
+				<div class="row margin">
+					<div class="input-field col s12">
+						<i class="mdi-action-lock-outline prefix"></i> <input
+							id="user_cost" type="text" name="prodCost" class="validate">
+						<label for="user_cost">COST:</label>
+					</div>
+				</div>
+				<div class="row margin">
+					<div class="input-field col s12">
+						<i class="mdi-action-lock-outline prefix"></i> <input
+							id="confirm_pass"> <label
+							for="textarea">NOTE: <textarea name="prodNote"></textarea></label>
+					</div>
+				</div>
+				<div class="row">
+					<div class="input-field col s12">
+					<input type="submit" value="Create"	
+						
+							class="btn waves-effect waves-light col s12">Register Now</>
+					</div>
+					
+				</div>
+			</form>
+		</div>
+	</div>
+
+</body>
+</html>

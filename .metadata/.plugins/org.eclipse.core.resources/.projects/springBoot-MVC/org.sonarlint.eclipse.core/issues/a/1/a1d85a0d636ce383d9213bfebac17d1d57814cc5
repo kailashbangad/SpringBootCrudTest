@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‰éî³ùÿÿÿÿ8ƒÊÑÃ.Hğ0RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(û¯øšúÿÿÿÿ8ƒÊÑÃ.Hí0RMAJORZ
+CODE_SMELL
+}
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(í¦êå8˜ìĞÃ.Hì0RMINORZ
+CODE_SMELL
+w
+java:S3752
+">Add a "method" parameter to this "@RequestMapping" annotation.(Â«ù8£°šÑÃ.Hñ0RCRITICALZVULNERABILITY
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÎ’óùÿÿÿÿ8ƒÊÑÃ.Hî0RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Í…£ÿÿÿÿÿ8ƒÊÑÃ.Hï0RMAJORZ
+CODE_SMELL

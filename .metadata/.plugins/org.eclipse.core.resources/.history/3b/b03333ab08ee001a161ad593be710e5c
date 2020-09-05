@@ -1,0 +1,16 @@
+package in.nit.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import in.nit.dao.UserDao;
+@Service
+public class UserService {
+	@Autowired
+	private UserDao dao;
+	public int createUser(UserService user) {
+		return this.dao.saveUser(user);
+		
+	}
+
+}

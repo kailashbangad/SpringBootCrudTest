@@ -1,0 +1,16 @@
+package in.nit.controller;
+
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+
+public class UserController {
+	
+	@ModelAttribute
+	public void commonDataForModel(Model model) {
+		model.addAttribute("Header", "LearnCodeWithRaghuSir!!");
+		model.addAttribute("Desc", "code for javaLovers");
+		
+		
+	}
+
+}

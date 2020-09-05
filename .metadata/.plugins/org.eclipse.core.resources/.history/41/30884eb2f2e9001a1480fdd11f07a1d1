@@ -1,0 +1,33 @@
+package in.nit.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+@Controller
+public class StudentController {
+	@RequestMapping("/student")
+	public String  showStudentRegisterForm() {
+		return "studentRegister";
+		
+	}
+	
+	@RequestMapping(value = "/process" ,method = RequestMethod.POST)
+	public String showStudentRegister(
+			@RequestParam("firstname") String userFname ,
+			@RequestParam("lastname") String userLname,
+			@RequestParam("gender") String userGender,
+			@RequestParam("phone") String userPhone
+			
+			) {
+		System.out.println("firstName:"+userFname);
+		System.out.println("lastName:"+userLname);
+		System.out.println("gender:"+userGender);
+		System.out.println("phone:"+userPhone);
+		
+		
+		return "";
+		
+	}
+
+}

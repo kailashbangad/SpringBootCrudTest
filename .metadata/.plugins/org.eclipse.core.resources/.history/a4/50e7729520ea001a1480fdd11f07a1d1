@@ -1,0 +1,35 @@
+package in.nit.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import in.nit.model.Product;
+import in.nit.service.impl.ProductServiceImpl;
+
+@Controller
+public class ProductController {
+	@Autowired
+	private ProductServiceImpl service;
+	
+	@GetMapping("/show")
+	public String showData() {
+		return "ProductRegister";
+	}
+		
+		@PostMapping("/save")
+		public String saveProd(
+				@ModelAttribute Product product,
+				Model model
+				) 
+		{
+			Integer id = service.saveProduct(product);
+			model.addAttribute("message", "SAVED WITH ID : "+id);
+			return "ProductRegister";
+		}
+		
+	}
+

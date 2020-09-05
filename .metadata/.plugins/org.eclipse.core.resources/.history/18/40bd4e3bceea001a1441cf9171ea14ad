@@ -1,0 +1,28 @@
+package com.springrest.springrest.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.springrest.springrest.entities.Course;
+@Service
+public class CourseServiceImpl implements CourseService {
+
+	List<Course> list;
+	
+	 public CourseServiceImpl() {
+       
+		 list=new ArrayList<>();
+		 list.add(new Course(123, "Spring Boot", "Creating Rest API"));
+		 list.add(new Course(145,"Core Java","this will gives us basics of java"));
+	 }
+	
+	
+	@Override
+	public List<Course> getCources() {
+
+		return list;
+	}
+
+}

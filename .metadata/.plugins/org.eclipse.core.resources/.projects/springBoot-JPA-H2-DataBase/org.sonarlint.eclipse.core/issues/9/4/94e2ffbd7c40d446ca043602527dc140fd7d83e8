@@ -1,0 +1,16 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¸Ù£üÿÿÿÿ8Åƒ‘ê¶.HÓRMAJORZ
+CODE_SMELL
+w
+java:S3752
+">Add a "method" parameter to this "@RequestMapping" annotation.(£æ¦‚8œŸçé¶.HÔRCRITICALZVULNERABILITY
+m
+java:S3752"/Consider narrowing this list of methods to one.(ëúƒ´ÿÿÿÿÿ8œŸçé¶.HÕRCRITICALZVULNERABILITY
+w
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Êòä‚8Åƒ‘ê¶.HÖRCRITICALZVULNERABILITY
+|
+java:S3752-">Add a "method" parameter to this "@RequestMapping" annotation.(ÏèÍ•ÿÿÿÿÿ8­¿Åê¶.H×RCRITICALZVULNERABILITY
+|
+java:S3752'">Add a "method" parameter to this "@RequestMapping" annotation.(·°»ëøÿÿÿÿ8Åƒ‘ê¶.HØRCRITICALZVULNERABILITY
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(€ŸÒ—8Åƒ‘ê¶.HÙRMAJORZ
+CODE_SMELL

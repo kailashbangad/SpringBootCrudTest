@@ -1,0 +1,5 @@
+package in.nit.repo;
+
+public interface IProductRepository {
+
+}
